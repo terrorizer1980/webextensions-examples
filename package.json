@@ -27,6 +27,6 @@
   ],
   "homepage": "https://developer.mozilla.org/Add-ons/WebExtensions/Examples",
   "dependencies": {
-    "babel-eslint": "^7.2.3"
+    "babel-eslint": "^10.1.0"
   }
 }
